@@ -1,9 +1,9 @@
-# ToySwap - Oyuncak Paylaşım ve Takas Uygulaması
+# DeğişTokuş - Oyuncak Paylaşım ve Takas Uygulaması
 
 Selçuk Üniversitesi Bilgisayar Mühendisliği - Mobil Programlama Final Projesi
 
-**Öğrenci:** [Ad Soyad]  
-**Numara:** [Öğrenci No]
+**Öğrenci:** Oğuz Kağan Ülkü  
+**Numara:** 243301008
 
 ---
 
