@@ -47,7 +47,16 @@ Ebeveynlerin ve çocukların oyuncaklarını takas edebildiği veya geçici olar
 
 ## Ekran Görüntüleri
 
-> Buraya en az 3 ekran görüntüsü ekleyin
+>Giriş ekranı<img width="1080" height="2206" alt="WhatsApp Image 2026-05-22 at 9 19 48 PM (2)" src="https://github.com/user-attachments/assets/6c9c3110-97e5-4d6a-be71-906468024ee4" />
+>Ana Ekran <img width="1002" height="2048" alt="WhatsApp Image 2026-05-22 at 9 19 48 PM (1)" src="https://github.com/user-attachments/assets/b0a72bc1-a74a-469d-bd75-71b536555b8f" />
+>Profil <img width="1080" height="2206" alt="WhatsApp Image 2026-05-22 at 9 19 48 PM" src="https://github.com/user-attachments/assets/81a02983-c721-47a2-842a-2660b26e978f" />
+>>Video 
+
+https://github.com/user-attachments/assets/1608fe05-bcdc-432c-b85d-f9eb79882270
+
+
+
+
 
 ---
 
