@@ -17,8 +17,8 @@ Ebeveynlerin ve çocukların oyuncaklarını takas edebildiği veya geçici olar
 
 | Rol | E-posta | Şifre |
 |-----|---------|-------|
-| Ebeveyn | ebeveyn@test.com | Test1234! |
-| Çocuk | cocuk@test.com | Test1234! |
+| Ebeveyn | ebeveyn@test.com | ebeveyn1234 |
+| Çocuk | cocuk@test.com | cocuk1234 |
 
 ---
 
